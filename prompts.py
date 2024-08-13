@@ -1,0 +1,8 @@
+SEO_PROMPT = """"""
+
+IMPROVE_SEO_PROMPT = """"""
+
+MARK_PROMPT_TRUE = """"""
+MARK_PROMPT_FALSE = """"""
+
+CREATE_LOGO_PROMPT = """"""
